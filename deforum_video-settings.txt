@@ -1,0 +1,14 @@
+{
+    "skip_video_for_run_all": false,
+    "fps": 12.0,
+    "output_format": "FFMPEG mp4",
+    "ffmpeg_location": "C:\\ProgramData\\FFmpeg\\bin\\ffmpeg.exe",
+    "add_soundtrack": false,
+    "soundtrack_path": "snowfall.mp3",
+    "use_manual_settings": false,
+    "render_steps": false,
+    "max_video_frames": 200.0,
+    "path_name_modifier": "x0_pred",
+    "image_path": "/content/drive/MyDrive/AI/StableDiffusion/2022-09/20220903000939_%05d.png",
+    "mp4_path": "/content/drive/MyDrive/AI/StableDiffusion/content/drive/MyDrive/AI/StableDiffusion/2022-09/kabachuha/2022-09/20220903000939.mp4"
+}
